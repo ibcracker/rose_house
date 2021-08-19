@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="YD_Bank">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../마크버전모음/테이킹플라워/plugins/YD_Bank.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

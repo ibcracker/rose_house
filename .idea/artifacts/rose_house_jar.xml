@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="rose_house:jar">
+    <output-path>$PROJECT_DIR$/../../마크버전모음/테이킹플라워/plugins</output-path>
+    <root id="archive" name="rose_house.jar">
+      <element id="module-output" name="rose_house" />
+    </root>
+  </artifact>
+</component>
