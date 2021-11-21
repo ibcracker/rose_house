@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="GuiKit">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../마크버전모음/테이킹플라워/plugins/GuiKit.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

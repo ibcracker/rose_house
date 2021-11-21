@@ -10,5 +10,6 @@
     <orderEntry type="library" name="spigot-1.16.4" level="project" />
     <orderEntry type="library" name="commandKit" level="project" />
     <orderEntry type="library" name="YD_Bank" level="project" />
+    <orderEntry type="library" name="GuiKit" level="project" />
   </component>
 </module>
