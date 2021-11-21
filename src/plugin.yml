@@ -3,3 +3,8 @@ main: com.dykoone.rosehouseplugin.RoseHousePlugin
 version: 1.0.0
 author: dykoone
 api-version: 1.16
+depend:
+  - GuiKit
+
+commands:
+  rose:
